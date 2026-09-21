@@ -1,9 +1,9 @@
 
 # Hello, friend. 👨‍💻
 
-<align="center">
+<p align="center">
   <img src="https://giphy.com" width="600" alt="Elliot Alderson - Mr. Robot">
-</align>
+</p>
 
 ## About Me
 Hi there! I'm a **C++ & Unreal Engine Developer** with a strong passion for **Cybersecurity** and **Artificial Intelligence**. I focus on building optimized systems, creating immersive virtual worlds, and exploring software vulnerabilities.
@@ -45,6 +45,6 @@ Hi there! I'm a **C++ & Unreal Engine Developer** with a strong passion for **Cy
 
 Feel free to reach out for career opportunities, collaborations, or just a tech chat:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![Email](https://shields.io)](mailto:your_email@gmail.com)
+[![Telegram](https://shields.io)](https://t.me/Reschalka)
+[![Email](https://shields.io)](mailto:reschalka@gmail.com)
+

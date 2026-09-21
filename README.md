@@ -1,77 +1,94 @@
-# Hello, friend. 👨‍💻
+<br clear="both">
 
-<p align="center">
-  <img src="elliot.gif" width="600" alt="Elliot Alderson - Mr. Robot">
-</p>
+<div align="center">
+  <img height="300" width="600" src="elliot.gif" alt="Elliot Alderson - Mr. Robot" />
+</div>
 
-## About Me
-Hi there, I'm Dima! I'm a **C++ & Unreal Engine Developer** with a strong focus on **Cybersecurity** and **Artificial Intelligence**. I build optimized code, design interactive virtual worlds, and explore software vulnerabilities.
+###
 
-- 🛠️ Actively developing in **C++** and blueprinting/coding in **Unreal Engine**
-- 🛡️ Researching ethical hacking, reverse engineering, and software security
-- 🤖 Integrating **AI/ML** workflows and neural networks into practical projects
-- 💬 Open to international opportunities, remote roles, and software engineering internships!
+<h1 align="center">Hello, friend. I'm Dima! 👋</h1>
 
----
+###
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-### Core Development & Engines
+###
+
+<div align="center">
+  <img src="https://laobi.icu&" alt="visitor badge" />
+</div>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
 <p align="left">
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  </a>
-  <a href="https://unrealengine.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="45" height="45"/>
-  </a>
-  <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  </a>
-  <a href="https://gnu.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
-  </a>
+I am a dedicated <b>C++ & Unreal Engine Developer</b> with a profound passion for <b>Cybersecurity</b> and <b>Artificial Intelligence</b>. I focus on writing high-performance code, building immersive virtual worlds, and studying software vulnerabilities and AI models.
+<br><br>
+- 🔭 Actively developing core game logic and systems using <b>C++</b> and <b>Unreal Engine</b>.<br>
+- 🛡️ Deeply researching ethical hacking, software security, and reverse engineering.<br>
+- 🤖 Exploring <b>AI/ML</b> architectures and integrating neural networks into workflows.<br>
+- ⚡ Open to international remote positions, software engineering roles, and tech collaborations.
 </p>
 
-### Databases & DevOps
-<p align="left">
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-</p>
+###
 
-### Design & Math Tools
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/>
-  </a>
-  <a href="https://mathworks.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
-  </a>
-</p>
+<h3 align="left">🛠 Tech Stack & Tools:</h3>
 
-### Web Basics (Supplementary)
-<p align="left">
-  <a href="https://w3.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-</p>
+###
 
----
+<div align="left">
+  <!-- C++ -->
+  <img src="https://jsdelivr.net" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <!-- Unreal Engine -->
+  <img src="https://skillicons.dev" height="40" alt="unreal engine logo"  />
+  <img width="12" />
+  <!-- C -->
+  <img src="https://jsdelivr.net" height="40" alt="c logo"  />
+  <img width="12" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <!-- Bash -->
+  <img src="https://jsdelivr.net" height="40" alt="bash logo"  />
+  <img width="12" />
+  <!-- Docker -->
+  <img src="https://jsdelivr.net" height="40" alt="docker logo"  />
+  <img width="12" />
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <!-- Linux -->
+  <img src="https://skillicons.dev" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My GitHub Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://demolab.com" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://vercel.app" height="150" alt="stats graph"  />
+  <img src="https://vercel.app" height="150" alt="languages graph"  />
+</div>
+
 
 ## 🌐 Connect With Me
 
